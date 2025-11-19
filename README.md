@@ -1,3 +1,9 @@
+### IMINT - Intelligence Derived From Imagery
+
+### 1) Imagery Intelligence (IMINT)
+- <i>Vladimir Kovarik</i>
+- https://www.researchgate.net/profile/Vladimir_Kovarik/publication/270686775_Imagery_intelligence_IMINT/links/59c6b1620f7e9bd2c00f4722/Imagery-intelligence-IMINT.pdf
+
 ## Referência
 
 ### Interferometric synthetic aperture radar (InSAR)
